@@ -10,6 +10,6 @@ I got a master degree in Machine Learning & Artificial Intelligence and I'm actu
 
 
 <p float="left">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api?username=Ishak96&show_icons=true&theme=onedark&show_icons=true&count_private=true" width="470" height="200">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishak96&layout=compact&hide_border=true&hide=jupyter%20notebook,html&langs_count=9&theme=onedark" width="320" height="200">
+<img align="right" src ="https://github-readme-stats.vercel.app/api?username=Ishak96&show_icons=true&theme=onedark&show_icons=true&count_private=true" width="470" height="200">
+<img align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishak96&layout=compact&hide_border=true&hide=jupyter%20notebook,html&langs_count=9&theme=onedark" width="320" height="200">
 </p>
