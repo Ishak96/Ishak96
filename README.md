@@ -37,9 +37,6 @@
   <a href="https://github.com/ishak96">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ishak96&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/ishak96">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishak96&theme=algolia&hide_border=true"/>
-  </a>
 </p>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
