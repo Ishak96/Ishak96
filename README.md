@@ -30,6 +30,7 @@
 - 📫 How to reach me: **ishak.ayad@cyu.fr**
 - 📄 For details on my professional experience, visit my [LinkedIn](https://www.linkedin.com/in/ishak-ayad/).
 - ⚡ Fun fact: I’m proficient in multiple programming languages, including Python, Java, C++, MATLAB, and Bash, with expertise in machine learning and data science tools.
+- 🚀 For more information, visit my personal [website](https://ishak96.github.io/).
 
 ### ⚙️ &nbsp;GitHub Analytics
 
