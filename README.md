@@ -25,7 +25,7 @@
 - 🔭 I’m currently working on sparse-view CT image reconstruction.
 - 🌱 I’m currently enhancing my knowledge in **advanced AI techniques** and **LLM fine-tuning**.
 - 👨‍💻 My projects, including simulations and implementations in medical imaging, are available at [https://github.com/Ishak96](https://github.com/Ishak96).
-- 📝 I publish insights and research findings on computer vision and machine learning on [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=OE67_fcAAAAJ).
+- 📝 I publish insights and research findings on computer vision and machine learning on [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=IBUjNFYAAAAJ&hl).
 - 💬 Ask me about **computer vision in medical imaging** or **deep learning frameworks** like PyTorch.
 - 📫 How to reach me: **ishak.ayad@cyu.fr**
 - 📄 For details on my professional experience, visit my [LinkedIn](https://www.linkedin.com/in/ishak-ayad/).
