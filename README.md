@@ -21,7 +21,7 @@
   </a>
 </p>
 
-- 🔭 I'm currently a **Postdoc Researcher** at CentraleSupélec, working on **deep unrolling**, **inverse problems**, and **ultrasound imaging**.
+- 🔭 Currently a **Postdoc Researcher** at CentraleSupélec, working on **deep unrolling**, **inverse problems**, and **ultrasound imaging**.
 - 🌱 I'm currently enhancing my knowledge in **deep unrolling methods**, **motion compensation**, and **Implicit Neural Representation**.
 - 📝 I publish research on medical imaging and computer vision — see my work on [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=IBUjNFYAAAAJ&hl).
 - 💬 Ask me about **CT image reconstruction**, **inverse problems**, or **deep learning frameworks** like PyTorch.
