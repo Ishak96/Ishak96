@@ -22,7 +22,7 @@
 </p>
 
 - 🔭 Currently a **Postdoc Researcher** at CentraleSupélec, working on **deep unrolling**, **inverse problems**, and **ultrasound imaging**.
-- 🌱 I'm currently enhancing my knowledge in **deep unrolling methods**, **motion compensation**, and **Implicit Neural Representation**.
+- 🌱 I'm enhancing my knowledge in **deep unrolling methods**, **motion compensation**, and **Implicit Neural Representation**.
 - 📝 I publish research on medical imaging and computer vision — see my work on [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=IBUjNFYAAAAJ&hl).
 - 💬 Ask me about **CT image reconstruction**, **inverse problems**, or **deep learning frameworks** like PyTorch.
 - 📫 How to reach me: **ai.ayad.ishak@gmail.com**
